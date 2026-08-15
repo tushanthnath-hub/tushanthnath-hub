@@ -35,20 +35,21 @@ I'm currently expanding my skills in **Data Analytics, Machine Learning, and Dat
 - 🔍 I enjoy turning raw data into meaningful business insights
 - 🌱 Continuously learning and building projects to strengthen my data science portfolio
 
-### 📈 I'm continuously building projects focused on:            Currently learning:
+### 📈 I'm continuously building projects focused on:            
 
-- Predictive Modeling                                               - ML Pipelines
-- Machine Learning                                                  - Supervised Learning
-- Business Intelligence                                             - Regression
-- Exploratory Data Analysis.                                        - Clustering
-- Business Problem Solving                                          - Feature Engineering
-- Exploratory Data Analysis                                         - Classification
-                                                                    - Model Evaluation
-                             
-                                 
-                         
-                                 
+- Predictive Modeling                                               
+- Machine Learning                                                  
+- Business Intelligence                                            
+- Exploratory Data Analysis.                                        
+- Business Problem Solving                                        
+- Exploratory Data Analysis                                         
 
-
-
+## Currently learning:                                                                 
+- Model Evaluation                             
+- ML Pipelines                             
+- Supervised Learning                         
+- Regression                                 
+- Clustering
+- Feature Engineering
+- Classification
 
