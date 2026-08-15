@@ -33,30 +33,9 @@ I'm currently expanding my skills in **Data Analytics, Machine Learning, and Dat
 - 🗄️ Comfortable working with **SQL**
 - 📈 Experienced with **Pandas, NumPy & Matplotlib**
 - 📐 Interested in statistics, mathematics, and analytical problem-solving
-- 🧮 Working knowledge of **R**
 - 🤖 Currently developing my **Machine Learning** skills
 - 🔍 I enjoy turning raw data into meaningful business insights
 - 🌱 Continuously learning and building projects to strengthen my data science portfolio
-
----
-
-## 🛠️ Tech Stack
-
-### Programming & Data
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### Data Analysis & Visualization
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-
-### Machine Learning
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 Currently learning:
 
@@ -68,38 +47,8 @@ Currently learning:
 - Model Evaluation
 - ML Pipelines
 
----
 
-## 📊 Featured Projects
-
-### 🤖 Agent Performance Intelligence
-
-**Agent Performance Prediction & Behavioral Clustering**
-
-An end-to-end machine learning project focused on predicting agent task success and identifying behavioral patterns.
-
-**Technologies:**
-
-`Python` `Pandas` `NumPy` `Scikit-learn` `K-Means` `Random Forest` `Logistic Regression` `Streamlit`
-
-**Key components:**
-
-- Synthetic agent-performance data generation
-- Data preprocessing
-- Exploratory data analysis
-- Classification
-- Behavioral clustering
-- Model evaluation
-- Interactive Streamlit dashboard
-- Model persistence and prediction pipeline
-
-🔗 **[View Project](#)**
-
----
-
-### 📈 More Projects Coming Soon
-
-I'm continuously building projects focused on:
+### 📈 I'm continuously building projects focused on:
 
 - SQL Analytics
 - Business Intelligence
