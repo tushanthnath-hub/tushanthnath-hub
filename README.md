@@ -23,9 +23,7 @@ I enjoy working with data to uncover insights, understand business problems, and
 
 I'm currently expanding my skills in **Data Analytics, Machine Learning, and Data Science** with the goal of transitioning into a Data Analyst / Data Scientist role.
 
----
-
-## 🚀 About Me
+## About Me
 
 - 💼 Currently working as a **Business Analyst**
 - 📊 Interested in **Data Analytics, Data Science & Machine Learning**
@@ -57,22 +55,3 @@ Currently learning:
 - Predictive Modeling
 - Machine Learning
 - Business Problem Solving
-
----
-
-## 📚 Currently Learning
-
-I'm actively improving my knowledge in:
-
-```text
-Python
-   ↓
-Data Analysis
-   ↓
-Statistics & Mathematics
-   ↓
-Machine Learning
-   ↓
-Data Science
-   ↓
-Production & Deployment
